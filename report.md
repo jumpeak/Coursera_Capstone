@@ -11,7 +11,7 @@ Next - I'll find out what venues people visit before visiting coffee shops, for 
 
 ### Analysis
 
-First look at Coffee Shops density in New York City. Most of coffee shops are in the center quite prospective.
+First look at Coffee Shops density in New York City. Most of coffee shops are in the center  - that is not surprising.
 
 Next step is to retrieve venues, that people visit before visiting coffee shops. For this purpose, I'll search for all nearby venues, then for every found venue will request foursquare "nextvenues" to get top 5 venues visited after this one, next - check if there is venues with category "Coffee Shops" in top 5 nextvenues, and if it is - add the checked venue to a dataframe.
 Let's call the venues visited before coffee shop venues "pre-venues". Now we can explore categories of collected pre-venues:
