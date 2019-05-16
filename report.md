@@ -1,4 +1,4 @@
-### Coffee Shop in New York
+## Coffee Shop in New York
 
 #### 1. Introduction
 
