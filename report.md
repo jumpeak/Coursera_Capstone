@@ -20,7 +20,7 @@ Results are interesting, Gym coupled with Gym/Fitness Center category takes top 
 
 Now let's look at pre-venues density on the map:
 
-As you see, situation is different in comparison with coffee shops venues.
+As you see, the situation is different in comparison with the coffee shops venues.
 
 To compare coffee shops density and pre-venues density I'm introducing one simple metric - "coffee shop count / pre-venue count" relation. Put it on the map too:
 
